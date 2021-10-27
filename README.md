@@ -5,7 +5,7 @@ My name is Swoorup Joshi. I'm a passionate about distributed & concurrent system
 While I look at the platform/runtime as a tool to achieve the goal, my personal weapons of choice include: Scala and F#. Contact me at
 
 ```scala
-s"${firstName}${lastName}@gmail.com
+s"${firstName}j@gmail.com
 ```
 
 to discuss potential oppurtunities. 
